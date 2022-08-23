@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/repository/students.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/repository2/students.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/repository3/students.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/repository4/students.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/repository5/students.txt" charset="GBK" />
+  </component>
+</project>
